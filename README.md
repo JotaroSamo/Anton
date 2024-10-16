@@ -17,7 +17,7 @@
 | C#               | ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png) |
 | .NET Core        | ![DotNet](https://img.icons8.com/color/48/000000/net-framework.png) |
 | MySQL            | ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) |
-| RabbitMQ         | ![RabbitMQ](https://www.rabbitmq.com) |
+| RabbitMQ         | ![RabbitMQ](https://camo.githubusercontent.com/52daabbffa103507528562841780ff2febc3f48285e4621f437b3f7db617b101/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f7261626269746d712e737667) |
 | Git              | ![Git](https://img.icons8.com/color/48/000000/git.png) |
 | Docker           | ![Docker](https://img.icons8.com/color/48/000000/docker.png) |
 | MongoDB          | ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) |
